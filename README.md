@@ -3,6 +3,7 @@ Objective:
 To predict the probability of a flood occurring within 24hrs at or nearby the user’s location.
 
 Abstract:
+
 1> An android app which uses artificial neural networks and decision tree algorithms to predict the possibility of a flood, if there is any, at least 24 hrs before.
 
 2> The app would collect the demographic data of the user’s locality ( thereby requiring the user’s location) from the various data sources available.
